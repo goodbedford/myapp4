@@ -1,0 +1,15 @@
+{
+  "name": "myapp4",
+  "version": "1.0.0",
+  "description": "sample node app GA week 3 day 3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "goodbedford",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.1",
+    "underscore": "^1.8.3"
+  }
+}
